@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ali 
+
+Electronics & Telecommunication Engineering Student
+
+Interested in:
+- Software Engineering
+- Backend Development
+- Cloud Computing
+- Problem Solving
+
+## Tech Stack
+- Java
+- C++
+- Python
+- SQL
+- Git
+- Spring Boot (Learning)
+
+## Current Focus
+Building projects and preparing for Software Engineering internships.
 
 <!--
 **alirahebar/alirahebar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
